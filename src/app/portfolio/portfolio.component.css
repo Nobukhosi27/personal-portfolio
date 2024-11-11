@@ -1,0 +1,35 @@
+*{
+    font-family: sans-serif;
+}
+ 
+.projects-container{
+    overflow: initial;
+
+
+}
+
+.projects-content{
+    padding: 0 1.5rem;
+}
+
+    
+
+    .projects-img{
+        width: 360px;
+        border-radius: .5rem;
+        justify-self: center;
+        
+
+    }
+
+    .projects-title{
+        font-size: medium;
+        margin-bottom: .5rem;
+    }
+
+    .projects-description{
+        margin-bottom: .75rem;
+    }
+
+   
+   
